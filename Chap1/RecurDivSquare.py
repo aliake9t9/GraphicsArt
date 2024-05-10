@@ -80,7 +80,7 @@ def main():
 ratio=math.sqrt(2)
 if ratio>1:
     ratio=1/ratio
-thr=70
+thr=20
 
 if __name__=="__main__":
     main()

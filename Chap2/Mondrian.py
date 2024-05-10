@@ -99,7 +99,7 @@ ratio=(math.sqrt(5)+1)/2
 if ratio>1:
     ratio=1/ratio
 thr=20
-thr2=0.5
+thr2=0.1
 
 if __name__=="__main__":
     main()
